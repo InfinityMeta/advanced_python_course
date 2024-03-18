@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tex_generation_noonmare"
+version = "0.0.2"
+authors = [
+  { name="Maksim Golovin", email="maksim.golovin.2001@mail.ru" },
+]
+description = "A small package for tex generation"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
