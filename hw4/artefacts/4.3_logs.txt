@@ -1,0 +1,10 @@
+INFO: 04/01/2024 11:43:59 Enter text for processing: hello
+INFO: 04/01/2024 11:43:59 Processed text: uryyb
+INFO: 04/01/2024 11:44:05 Enter text for processing: what is your name
+INFO: 04/01/2024 11:44:05 Processed text: jung vf lbhe anzr
+INFO: 04/01/2024 11:44:08 Enter text for processing: good
+INFO: 04/01/2024 11:44:10 Processed text: tbbq
+INFO: 04/01/2024 11:44:10 Enter text for processing: bad
+INFO: 04/01/2024 11:44:12 Enter text for processing: nice
+INFO: 04/01/2024 11:44:15 Processed text: onq
+INFO: 04/01/2024 11:44:20 Processed text: avpr

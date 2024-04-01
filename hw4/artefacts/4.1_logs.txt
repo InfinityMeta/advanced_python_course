@@ -1,0 +1,8 @@
+INFO: 04/01/2024 11:47:02 Synchronous regime:
+INFO: 04/01/2024 11:47:02 Time to compute 37th fibonacci number: 16.1459s
+
+INFO: 04/01/2024 11:49:06 Threading regime:
+INFO: 04/01/2024 11:49:06 Time to compute 37th fibonacci number: 96.0272s
+
+INFO: 04/01/2024 11:49:20 Multiprocessing regime:
+INFO: 04/01/2024 11:49:20 Time to compute 37th fibonacci number: 2.2710s
